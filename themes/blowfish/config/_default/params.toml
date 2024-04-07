@@ -26,7 +26,7 @@ disableTextInHeader = false
 # smartTOCHideUnfocusedChildren = true
 
 [header]
-  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
+  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -50,6 +50,7 @@ disableTextInHeader = false
   showDate = true
   showViews = false
   showLikes = false
+  showDateOnlyInArticle = false
   showDateUpdated = false
   showAuthor = true
   showHero = false
@@ -73,6 +74,7 @@ disableTextInHeader = false
   showAuthorsBadges = false
   showWordCount = true
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
+  showZenMode = false
 
 [list]
   showHero = false
@@ -125,6 +127,10 @@ disableTextInHeader = false
 
 [fathomAnalytics]
   # site = "ABC12345"
+  # domain = "llama.yoursite.com"
+
+[umamiAnalytics]
+  # websiteid = "ABC12345"
   # domain = "llama.yoursite.com"
 
 [buymeacoffee]
