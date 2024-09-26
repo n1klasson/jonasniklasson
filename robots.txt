@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://n1klasson.github.io/jonasniklasson/sitemap.xml
+Sitemap: https://jonasniklasson.xyz/sitemap.xml
