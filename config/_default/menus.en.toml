@@ -15,7 +15,7 @@
   pageRef = "posts"
 
 [[main]]
-  name = "About"
+  name = "About Me"
   page = "about"
 
 #[[main]]
