@@ -1,8 +1,0 @@
-@font-face {
-    font-family: noto_sans;
-    src: url('/fonts/noto_sans.ttf');
-}
-
-html {
-    font-family: noto_sans;
-}
