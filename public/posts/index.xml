@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>jonasniklasson.xyz</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on jonasniklasson.xyz</description>
+    <title>Posts on jonasniklasson.xyz</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on jonasniklasson.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>youremail@example.com (Jonas Niklasson)</managingEditor>
     <webMaster>youremail@example.com (Jonas Niklasson)</webMaster>
     <copyright>© 2024 Jonas Niklasson</copyright>
-    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Workout log</title>
       <link>http://localhost:1313/posts/seconda/</link>

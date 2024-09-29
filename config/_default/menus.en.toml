@@ -50,9 +50,9 @@
 #  pageRef = "categories"
 #  weight = 20
 
-#[[main]]
-#  name = "Tags"
-#  pageRef = "tags"
+[[main]]
+  name = "Tags"
+  pageRef = "tags"
 #  weight = 30
 
 
