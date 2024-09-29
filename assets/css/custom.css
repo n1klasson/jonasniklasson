@@ -1,0 +1,9 @@
+@font-face {
+    font-family: fira sans;
+    src: url('/fonts/firasans.ttf');
+}
+
+html {
+    font-family: fira sans;
+    font-size: 10pt;
+}
