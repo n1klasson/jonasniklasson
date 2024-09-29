@@ -1,6 +1,6 @@
 ---
 date: 2024-09-15
-draft: false
+draft: true
 params:
   author: Jonas Niklasson
 title: Workout log
