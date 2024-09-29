@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on jonasniklasson.xyz</title>
+    <link>https://jonasniklasson.xyz/authors/</link>
+    <description>Recent content in Authors on jonasniklasson.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>youremail@example.com (Jonas Niklasson)</managingEditor>
+    <webMaster>youremail@example.com (Jonas Niklasson)</webMaster>
+    <copyright>© 2024 Jonas Niklasson</copyright>
+    <atom:link href="https://jonasniklasson.xyz/authors/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
