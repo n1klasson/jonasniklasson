@@ -103,7 +103,7 @@
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "2"
+    "wordCount": "0"
   }]
   </script>
 
@@ -121,6 +121,13 @@
 
 
 
+
+
+
+
+
+<script defer type="text/javascript" src="/js/chart.bundle.bcaee17da5afec84839b18444dcf6ba80a0416f00d68f77efd9bdaae5b29a34c6a1b73da509e3ad77a7b22dcb79f0f74cc8759e2cc97fa478bf5204e7abd91d2.js"
+  integrity="sha512-vK7hfaWv7ISDmxhETc9rqAoEFvANaPd&#43;/Zvarlspo0xqG3PaUJ4613p7Ity3nw90zIdZ4syX&#43;keL9SBOer2R0g=="></script>
 
 
 
@@ -432,11 +439,7 @@
 
 
 
-  
 
-
-
-  
 
 
 
@@ -453,7 +456,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-02-02T00:00:00&#43;00:00">2 February 2024</time><span class="px-2 text-primary-500">&middot;</span><span>2 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">1 min</span>
+  <time datetime="2024-02-02T00:00:00&#43;00:00">2 February 2024</time>
   
 
   
@@ -515,7 +518,31 @@
 
 
         <div class="article-content max-w-prose mb-20">
-          <p>Hejsan :D</p>
+          
+<div class="chart">
+  <canvas id="chart-ae097a0b413ccfaefa810b311d743e78"></canvas>
+  <script type="text/javascript">
+    window.addEventListener("DOMContentLoaded", (event) => {
+      const ctx = document.getElementById("chart-ae097a0b413ccfaefa810b311d743e78");
+      const chart = new Chart(ctx, {
+        
+
+type: 'line',
+data: {
+  const labels = Utils.months({count: 5});
+ 
+  datasets: [{
+    label: 'Weight',
+    data: [59, 60, 61, 62, 65],
+    tension: 0.25
+  }]
+}
+
+      });
+    });
+  </script>
+</div>
+
 
           
           
@@ -594,13 +621,7 @@
   </footer>
 </article>
 
-      <div id="top-scroller" class="pointer-events-none absolute top-[110vh] bottom-0 w-12 ltr:right-0 rtl:left-0">
-  <a href="#the-top"
-    class="pointer-events-auto sticky top-[calc(100vh-5.5rem)] flex h-12 w-12 mb-16 items-center justify-center rounded-full bg-neutral/50 text-xl text-neutral-700 hover:text-primary-600 dark:bg-neutral-800/50 dark:text-neutral dark:hover:text-primary-400"
-    aria-label="Scroll to top" title="Scroll to top">
-    &uarr;
-  </a>
-</div>
+      
     </main><footer id="site-footer" class="py-10 print:hidden">
   
   
