@@ -9,23 +9,33 @@
     <managingEditor>youremail@example.com (Jonas Niklasson)</managingEditor>
     <webMaster>youremail@example.com (Jonas Niklasson)</webMaster>
     <copyright>© 2024 Jonas Niklasson</copyright>
-    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jonasniklasson.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jonasniklasson.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workout #3</title>
+      <link>https://jonasniklasson.xyz/posts/20241003/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Jonas Niklasson)</author>
+      <guid>https://jonasniklasson.xyz/posts/20241003/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Workout #2</title>
-      <link>https://jonasniklasson.xyz/posts/2024-10-01/</link>
+      <link>https://jonasniklasson.xyz/posts/20241001/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <author>youremail@example.com (Jonas Niklasson)</author>
-      <guid>https://jonasniklasson.xyz/posts/2024-10-01/</guid>
+      <guid>https://jonasniklasson.xyz/posts/20241001/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Workout #1</title>
-      <link>https://jonasniklasson.xyz/posts/seconda/</link>
+      <link>https://jonasniklasson.xyz/posts/20240915/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       <author>youremail@example.com (Jonas Niklasson)</author>
-      <guid>https://jonasniklasson.xyz/posts/seconda/</guid>
+      <guid>https://jonasniklasson.xyz/posts/20240915/</guid>
       <description></description>
       
     </item>
